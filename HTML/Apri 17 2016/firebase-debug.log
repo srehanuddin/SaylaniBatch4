@@ -1,0 +1,11 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files (x86)\nodejs\node.exe C:\Users\dev-PC\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase init
+[debug] Platform:     win32
+[debug] Node Version: v5.9.1
+[debug] Time:         Sun Apr 17 2016 12:13:51 GMT+0500 (Pakistan Standard Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[warn] !  Initializing in a directory with 1 files
+[warn] 
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/account?token=XXX 
+[debug] <<< HTTP RESPONSE 200
